@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label><!-- AnswerOption --></label>
+        <label></label>
         <name>TIMBASURVEYS__AnswerOption__c</name>
-        <relationshipLabel><!-- SurveyResponses --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- BooleanResponse --></label>
+        <label></label>
         <name>TIMBASURVEYS__BooleanResponse__c</name>
     </fields>
     <fields>
-        <label><!-- DateTimeResponse --></label>
+        <label></label>
         <name>TIMBASURVEYS__DateTimeResponse__c</name>
     </fields>
     <fields>
-        <label><!-- NumberResponse --></label>
+        <label></label>
         <name>TIMBASURVEYS__NumberResponse__c</name>
     </fields>
     <fields>
-        <label><!-- Recipient --></label>
+        <label></label>
         <name>TIMBASURVEYS__Recipient__c</name>
-        <relationshipLabel><!-- SurveyResponses --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- ResponseType --></label>
+        <label></label>
         <name>TIMBASURVEYS__ResponseType__c</name>
         <picklistValues>
             <masterLabel>Boolean</masterLabel>
-            <translation><!-- Boolean --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>DateTime</masterLabel>
-            <translation><!-- DateTime --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Number</masterLabel>
-            <translation><!-- Number --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>String</masterLabel>
-            <translation><!-- String --></translation>
+            <translation></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- StringResponse --></label>
+        <label></label>
         <name>TIMBASURVEYS__StringResponse__c</name>
     </fields>
     <fields>
-        <label><!-- SurveyQuestion --></label>
+        <label></label>
         <name>TIMBASURVEYS__SurveyQuestion__c</name>
-        <relationshipLabel><!-- SurveyResponses --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Survey Not Finish --></label>
+        <label></label>
         <name>TIMBASURVEYS__Survey_Not_Finish__c</name>
     </fields>
 </CustomObjectTranslation>

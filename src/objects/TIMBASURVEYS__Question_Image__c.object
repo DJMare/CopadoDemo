@@ -239,7 +239,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Question Images</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

@@ -9,19 +9,19 @@
         <value>Items</value>
     </caseValues>
     <fields>
-        <label><!-- Category --></label>
+        <label></label>
         <name>Category__c</name>
         <picklistValues>
             <masterLabel>Clothing</masterLabel>
-            <translation><!-- Clothing --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Groceries</masterLabel>
-            <translation><!-- Groceries --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Home Improvement</masterLabel>
-            <translation><!-- Home Improvement --></translation>
+            <translation></translation>
         </picklistValues>
     </fields>
     <startsWith>Consonant</startsWith>

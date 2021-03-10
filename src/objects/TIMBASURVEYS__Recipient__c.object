@@ -416,7 +416,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Recipient</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

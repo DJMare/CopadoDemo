@@ -9,23 +9,23 @@
         <value>Survey Questions</value>
     </caseValues>
     <fields>
-        <label><!-- Category --></label>
+        <label></label>
         <name>Category__c</name>
         <picklistValues>
             <masterLabel>Skills And Knowledge</masterLabel>
-            <translation><!-- Skills And Knowledge --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Store Appearance</masterLabel>
-            <translation><!-- Store Appearance --></translation>
+            <translation></translation>
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- Order --></label>
+        <label></label>
         <name>Order__c</name>
     </fields>
     <fields>
-        <label><!-- Question --></label>
+        <label></label>
         <name>Question__c</name>
     </fields>
     <gender>Feminine</gender>

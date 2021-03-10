@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label><!-- AllowActiveBranching --></label>
+        <label></label>
         <name>TIMBASURVEYS__AllowActiveBranching__c</name>
     </fields>
     <fields>
-        <label><!-- Columns --></label>
+        <label></label>
         <name>TIMBASURVEYS__Columns__c</name>
     </fields>
     <fields>
-        <label><!-- HasChild --></label>
+        <label></label>
         <name>TIMBASURVEYS__HasChild__c</name>
     </fields>
     <fields>
-        <label><!-- IsRequired --></label>
+        <label></label>
         <name>TIMBASURVEYS__IsRequired__c</name>
     </fields>
     <fields>
-        <label><!-- PageNumber --></label>
+        <label></label>
         <name>TIMBASURVEYS__PageNumber__c</name>
     </fields>
     <fields>
-        <label><!-- ParentId --></label>
+        <label></label>
         <name>TIMBASURVEYS__ParentId__c</name>
-        <relationshipLabel><!-- SurveyQuestions --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Question2 --></label>
+        <label></label>
         <name>TIMBASURVEYS__Question2__c</name>
     </fields>
     <fields>
-        <label><!-- QuestionComment --></label>
+        <label></label>
         <name>TIMBASURVEYS__QuestionComment__c</name>
     </fields>
     <fields>
-        <label><!-- QuestionTypeCode --></label>
+        <label></label>
         <name>TIMBASURVEYS__QuestionTypeCode__c</name>
     </fields>
     <fields>
-        <label><!-- QuestionType --></label>
+        <label></label>
         <name>TIMBASURVEYS__QuestionType__c</name>
-        <relationshipLabel><!-- SurveyQuestions --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Question Image --></label>
+        <label></label>
         <name>TIMBASURVEYS__Question_Image__c</name>
-        <relationshipLabel><!-- SurveyQuestions --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Question --></label>
+        <label></label>
         <name>TIMBASURVEYS__Question__c</name>
     </fields>
     <fields>
-        <label><!-- RichTextEditorEnabled --></label>
+        <label></label>
         <name>TIMBASURVEYS__RichTextEditorEnabled__c</name>
     </fields>
     <fields>
-        <label><!-- RowPlacement --></label>
+        <label></label>
         <name>TIMBASURVEYS__RowPlacement__c</name>
     </fields>
     <fields>
-        <label><!-- SurveyPage --></label>
+        <label></label>
         <name>TIMBASURVEYS__SurveyPage__c</name>
-        <relationshipLabel><!-- SurveyQuestions --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Survey --></label>
+        <label></label>
         <name>TIMBASURVEYS__Survey__c</name>
-        <relationshipLabel><!-- SurveyQuestions --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- TextLength --></label>
+        <label></label>
         <name>TIMBASURVEYS__TextLength__c</name>
     </fields>
     <fields>
-        <label><!-- ToolTip --></label>
+        <label></label>
         <name>TIMBASURVEYS__ToolTip__c</name>
     </fields>
     <fields>
-        <label><!-- isWeightManaged --></label>
+        <label></label>
         <name>TIMBASURVEYS__isWeightManaged__c</name>
     </fields>
     <fields>
-        <label><!-- x --></label>
+        <label></label>
         <name>TIMBASURVEYS__x__c</name>
     </fields>
     <fields>
-        <label><!-- y --></label>
+        <label></label>
         <name>TIMBASURVEYS__y__c</name>
     </fields>
 </CustomObjectTranslation>

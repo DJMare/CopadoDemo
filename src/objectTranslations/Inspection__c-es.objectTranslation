@@ -9,50 +9,50 @@
         <value>Inspections</value>
     </caseValues>
     <fields>
-        <label><!-- Completed Date --></label>
+        <label></label>
         <name>Completed_Date__c</name>
     </fields>
     <fields>
-        <label><!-- Completed --></label>
+        <label></label>
         <name>Completed__c</name>
     </fields>
     <fields>
-        <label><!-- Outstanding --></label>
+        <label></label>
         <name>Outstanding__c</name>
     </fields>
     <fields>
-        <label><!-- Scheduled Date --></label>
+        <label></label>
         <name>Scheduled_Date__c</name>
     </fields>
     <fields>
-        <label><!-- Scheduled --></label>
+        <label></label>
         <name>Scheduled__c</name>
     </fields>
     <fields>
-        <label><!-- Store --></label>
+        <label></label>
         <name>Store__c</name>
-        <relationshipLabel><!-- Inspections --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Surveys Count --></label>
+        <label></label>
         <name>Surveys_Count__c</name>
     </fields>
     <fields>
-        <label><!-- User --></label>
+        <label></label>
         <name>User__c</name>
-        <relationshipLabel><!-- Inspections --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <gender>Feminine</gender>
     <validationRules>
-        <errorMessage><!-- There can only be one survey per inspection --></errorMessage>
+        <errorMessage></errorMessage>
         <name>CheckOnlyOneSurvey</name>
     </validationRules>
     <webLinks>
-        <label><!-- Complete --></label>
+        <label></label>
         <name>Complete</name>
     </webLinks>
     <webLinks>
-        <label><!-- Complete_All_Pending --></label>
+        <label></label>
         <name>Complete_All_Pending</name>
     </webLinks>
 </CustomObjectTranslation>

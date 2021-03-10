@@ -186,7 +186,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>SurveyPage</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

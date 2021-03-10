@@ -9,34 +9,34 @@
         <value>Responses</value>
     </caseValues>
     <fields>
-        <label><!-- Answered --></label>
+        <label></label>
         <name>Answered__c</name>
     </fields>
     <fields>
-        <label><!-- Comments --></label>
+        <label></label>
         <name>Comments__c</name>
     </fields>
     <fields>
-        <label><!-- Negative --></label>
+        <label></label>
         <name>Negative__c</name>
     </fields>
     <fields>
-        <label><!-- Passed --></label>
+        <label></label>
         <name>Passed__c</name>
     </fields>
     <fields>
-        <label><!-- Positive --></label>
+        <label></label>
         <name>Positive__c</name>
     </fields>
     <fields>
-        <label><!-- Question --></label>
+        <label></label>
         <name>Question__c</name>
-        <relationshipLabel><!-- Responses --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Survey --></label>
+        <label></label>
         <name>Survey__c</name>
-        <relationshipLabel><!-- Responses --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <gender>Feminine</gender>
 </CustomObjectTranslation>

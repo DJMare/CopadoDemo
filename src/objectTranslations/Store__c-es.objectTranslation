@@ -9,48 +9,55 @@
         <value>Stores</value>
     </caseValues>
     <fields>
-        <label><!-- Address --></label>
+        <label></label>
         <name>Address__c</name>
     </fields>
     <fields>
-        <label><!-- City --></label>
+        <label></label>
         <name>City__c</name>
     </fields>
     <fields>
-        <label><!-- Country --></label>
+        <label></label>
         <name>Country__c</name>
     </fields>
     <fields>
-        <label><!-- Location --></label>
+        <label></label>
         <name>Location__c</name>
     </fields>
     <fields>
-        <label><!-- Map --></label>
+        <label></label>
         <name>Map__c</name>
     </fields>
     <fields>
-        <label><!-- Phone --></label>
+        <label></label>
         <name>Phone__c</name>
     </fields>
     <fields>
-        <label><!-- Picture --></label>
+        <label></label>
         <name>Picture__c</name>
     </fields>
     <fields>
-        <label><!-- Postal Code --></label>
+        <label></label>
         <name>Postal_Code__c</name>
     </fields>
     <fields>
-        <label><!-- Region --></label>
+        <label></label>
         <name>Region__c</name>
     </fields>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Store Layout</layout>
+        <sections>
+            <label></label>
+            <section>Visual Information</section>
+        </sections>
+    </layouts>
     <webLinks>
-        <label><!-- Locate --></label>
+        <label></label>
         <name>Locate</name>
     </webLinks>
     <webLinks>
-        <label><!-- Locate_All --></label>
+        <label></label>
         <name>Locate_All</name>
     </webLinks>
 </CustomObjectTranslation>

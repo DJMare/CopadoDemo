@@ -219,7 +219,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>SurveyStats</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

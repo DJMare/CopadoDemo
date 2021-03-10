@@ -266,7 +266,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Branches</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

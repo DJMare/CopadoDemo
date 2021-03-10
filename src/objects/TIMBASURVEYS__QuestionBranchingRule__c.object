@@ -271,7 +271,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>QuestionBranchingRules</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

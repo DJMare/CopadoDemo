@@ -262,7 +262,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Question Summaries</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

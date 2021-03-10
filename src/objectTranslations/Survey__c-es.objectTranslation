@@ -9,24 +9,24 @@
         <value>Surveys</value>
     </caseValues>
     <fields>
-        <label><!-- Inspection --></label>
+        <label></label>
         <name>Inspection__c</name>
-        <relationshipLabel><!-- Surveys --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Positive Results --></label>
+        <label></label>
         <name>Positive_Results__c</name>
     </fields>
     <fields>
-        <label><!-- Questions Count --></label>
+        <label></label>
         <name>Questions_Count__c</name>
     </fields>
     <fields>
-        <label><!-- Result --></label>
+        <label></label>
         <name>Result__c</name>
     </fields>
     <fields>
-        <label><!-- Store Name --></label>
+        <label></label>
         <name>Store_Name__c</name>
     </fields>
     <gender>Masculine</gender>

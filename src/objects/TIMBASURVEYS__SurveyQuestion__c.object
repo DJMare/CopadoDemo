@@ -393,7 +393,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>SurveyQuestions</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
