@@ -6040,10 +6040,6 @@
         <name>CustomLabel</name>
     </types>
     <types>
-        <members>CustomLabels</members>
-        <name>CustomLabels</name>
-    </types>
-    <types>
         <members>copado__Copado_Setting.copado__Actual_Velocity_Statuses</members>
         <members>copado__Copado_Setting.copado__Big_Metadata</members>
         <members>copado__Copado_Setting.copado__Sprint_Complete</members>
@@ -6783,6 +6779,7 @@
         <members>ContactPointEmail-Contact Point Email Layout</members>
         <members>ContactPointPhone-Contact Point Phone Layout</members>
         <members>ContactPointTypeConsent-Contact Point Type Consent Layout</members>
+        <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DataUseLegalBasis-Data Use Legal Basis Layout</members>
         <members>DataUsePurpose-Data Use Purpose Layout</members>
